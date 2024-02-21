@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: green;
+    font-size: 36px;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type:none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+a:link {
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+
+body {
+    background-color:#429bf5;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
